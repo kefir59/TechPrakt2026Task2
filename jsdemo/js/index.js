@@ -61,3 +61,5 @@ console.log(myf.bind(user));
 console.log(user.getLogin());
 const admin = new Admin('admin', '123456', 'all');
 */
+
+// Зміни внесено студентом Аверін Кирил, група ВТ-24-1
