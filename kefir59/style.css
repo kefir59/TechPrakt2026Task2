@@ -16,3 +16,19 @@ header {
     margin: 30px auto;
     padding: 0 15px;
 }
+.news-card {
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-left: 5px solid #007bff;
+    transition: transform 0.2s;
+}
+.news-card:hover {
+    transform: translateY(-2px);
+}
+.news-card h2 {
+    margin-top: 0;
+    color: #2c3e50;
+}
